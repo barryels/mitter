@@ -1,0 +1,26 @@
+{
+  "name": "mitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barryels/mitter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barryels/mitter/issues"
+  },
+  "homepage": "https://github.com/barryels/mitter#readme",
+  "devDependencies": {
+    "express": "^4.15.2"
+  },
+  "dependencies": {
+    "mithril": "^1.1.1"
+  }
+}
